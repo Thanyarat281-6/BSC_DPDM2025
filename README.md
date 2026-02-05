@@ -33,3 +33,5 @@ Thanyarat Sakkaree 663020281-6
 - [สรุปบทที่ 1 – Introduction](สรุป%20Data%20mining-01%20intro.pdf)
 - [สรุปบทที่ 2 – Data](สรุป%20Data%20mining-02Data.pdf)
    - [Noisy Data](https://drive.google.com/file/d/19NfVH6HnF96tP5JqaxwXWtbiQklkkXg7/view?usp=drivesdk)
+-[สรุปบท 8 - Class Basic]
+	-[Decision Tree](https://drive.google.com/file/d/1PqFUDrgULUaT5XL7PCL6a7yDH4F5LBID/view?usp=drivesdk)
