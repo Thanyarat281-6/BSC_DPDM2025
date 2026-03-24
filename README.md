@@ -81,7 +81,10 @@
 ---
  
 ## Course Summary
- 
+▼ Click the triangle to view the files
+
+
+
 <details open>
 <summary><img src="https://img.shields.io/badge/CH01-Introduction-06b6d4?style=flat-square"/> &nbsp;<b>Chapter 1 — Introduction to Data Mining</b></summary>
 <br>
