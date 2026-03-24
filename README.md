@@ -12,27 +12,42 @@ Thanyarat Sakkaree 663020281-6
 | **Quiz** | เดี่ยว | **10%** | แบบทดสอบย่อย ทำในห้องเรียน |
 | **GitHub** | เดี่ยว | **5%** | การส่งงานและการจัดการ Repository |
 
----
-
-## 🧮 สรุปสัดส่วนคะแนนรวม
-
-- **คะแนนสอบ (เดี่ยว)**: 50%  
-  - Midterm — 25%  
-  - Final Exam — 25%  
-
-- **คะแนนปฏิบัติและส่งงาน (กลุ่ม/เดี่ยว)**: 50%  
-  - Project — 20%  
-  - Homework — 15%  
-  - Quiz — 10%  
-  - GitHub — 5%  
-
-### 🎯 **รวมทั้งหมด: 100%**
 
 ---
-## 📚 สรุปเนื้อหาแต่ละบท
-- [สรุปบทที่ 1 – Introduction](สรุป%20Data%20mining-01%20intro.pdf)
-- [สรุปบทที่ 2 – Data](สรุป%20Data%20mining-02Data.pdf)
-   - [Noisy Data](https://drive.google.com/file/d/19NfVH6HnF96tP5JqaxwXWtbiQklkkXg7/view?usp=drivesdk)
-- สรุปบท 8 - Class Basic
+## 📚 สรุปเนื้อหาเรียน
+- ## Chapter 1 - Introduction
+  
+    - [Introduction](https://drive.google.com/file/d/1aaVCedJanliM5n5OWRUkT80MLxjLLlhQ/view?usp=sharing)
+  
+- ## Chapter 2 - Getting to Know Your Data
+  
+    - [Slide All](https://drive.google.com/file/d/1Dq4gisr4jFebXpReG7uuHLi7o1Zl_xWV/view?usp=sharing)
+  
+- ## Chapter 3 - Data Preprocessing
+    - [Summary](https://drive.google.com/file/d/1FVVC57X7owO17ui5fDZI7HhsertR-f08/view?usp=sharing)
+  
+    - [Noisy Data](https://drive.google.com/file/d/19NfVH6HnF96tP5JqaxwXWtbiQklkkXg7/view?usp=drivesdk)
+
+- ## Chapter 6 - Mining Frequent Patterns, Association and Correlations: Basic Concepts and MethodsChapter 
+  
+   - [Slide All ](https://drive.google.com/file/d/1kF3gWHYe3WvlpE1zis_C3_TvvMCwASez/view?usp=sharing)
+     
+- ## Chapter 8 - Classification: Basic Concepts
+  
    - [Decision Tree](https://drive.google.com/file/d/1PqFUDrgULUaT5XL7PCL6a7yDH4F5LBID/view?usp=drivesdk)
-
+     
+   - [Naive Bays](https://drive.google.com/file/d/1vJT-5cTIPkwryUKN7uTTreXcwqpAmLif/view?usp=sharing)
+     
+   - [Model Evaluation ](https://drive.google.com/file/d/1ve5BpoZ6yBWwyFkt2dqOPzMDtavA0ax1/view?usp=sharing)
+     
+- ## Chapter 9 - Classification: Advanced Methods
+  
+    - [Advanced Methods](https://drive.google.com/file/d/19OIUvZv1X1P7hbrygBOrFzkNeJoVrbXB/view?usp=sharing)
+  
+    - [Artificial Neural Network](https://drive.google.com/file/d/1JjiBAIgmbjXqM2AYOeVzBF6xdGo3CMmi/view?usp=sharing)
+  
+- ## Chapter 10 - Cluster Analysis: Basic Concepts and Methods
+  
+  - [K-mean Clustering](https://drive.google.com/file/d/1UZcF0agO2kMs_tnMHGOYvSqfbORRu5gQ/view?usp=sharing)
+  
+  - [Hierarchical Clustering Method](https://drive.google.com/file/d/1FAjsTTxVQG409cufkqwiNVAiqAN5gZgK/view?usp=sharing)
