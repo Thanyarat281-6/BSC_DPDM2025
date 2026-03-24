@@ -10,20 +10,69 @@
  
 ---
  
-### เกณฑ์การให้คะแนนรายวิชา
- 
+## Course Grading Criteria
+
 <div align="center">
- 
-| | **รายการประเมิน** | **รูปแบบ** | **คะแนน** | **Progress (ตามน้ำหนัก)** |
-|:---:|:---|:---|:---:|:---|
-| 📝 | **Midterm Exam** | เดี่ยว | **25%** | `█████████████░░░░░░░` |
-| 📋 | **Final Exam** | เดี่ยว | **25%** | `█████████████░░░░░░░` |
-| 🧩 | **Project** | กลุ่ม 5–6 คน | **20%** | `██████████░░░░░░░░░░` |
-| 📚 | **Homework** | กลุ่ม (สุ่มใหม่ทุกครั้ง) | **15%** | `███████░░░░░░░░░░░░░` |
-| ⚡ | **Quiz** | เดี่ยว | **10%** | `█████░░░░░░░░░░░░░░░` |
-| 🐙 | **GitHub** | เดี่ยว | **5%** | `██░░░░░░░░░░░░░░░░░░` |
-| | | **รวม** | **100%** | `████████████████████` |
- 
+
+<table>
+<tr>
+<th>Component</th>
+<th>Type</th>
+<th>Weight</th>
+<th>Progress</th>
+</tr>
+
+<tr>
+<td>📝 Midterm Exam</td>
+<td>Individual</td>
+<td><b>25%</b></td>
+<td><img src="https://geps.dev/progress/25?color=7c3aed"/></td>
+</tr>
+
+<tr>
+<td>📋 Final Exam</td>
+<td>Individual</td>
+<td><b>25%</b></td>
+<td><img src="https://geps.dev/progress/25?color=06b6d4"/></td>
+</tr>
+
+<tr>
+<td>🧩 Project</td>
+<td>Group (5–6)</td>
+<td><b>20%</b></td>
+<td><img src="https://geps.dev/progress/20?color=10b981"/></td>
+</tr>
+
+<tr>
+<td>📚 Homework</td>
+<td>Group</td>
+<td><b>15%</b></td>
+<td><img src="https://geps.dev/progress/15?color=f59e0b"/></td>
+</tr>
+
+<tr>
+<td>⚡ Quiz</td>
+<td>Individual</td>
+<td><b>10%</b></td>
+<td><img src="https://geps.dev/progress/10?color=f43f5e"/></td>
+</tr>
+
+<tr>
+<td>🐙 GitHub</td>
+<td>Individual</td>
+<td><b>5%</b></td>
+<td><img src="https://geps.dev/progress/5?color=6366f1"/></td>
+</tr>
+
+<tr>
+<td><b>🎯 Total</b></td>
+<td></td>
+<td><b>100%</b></td>
+<td><img src="https://geps.dev/progress/100?color=22c55e"/></td>
+</tr>
+
+</table>
+
 </div>
  
 > 💡 **Midterm** เน้น Data Preprocessing  
@@ -31,7 +80,7 @@
  
 ---
  
-## สรุปเนื้อหาเรียน
+## Course Summary
  
 <details open>
 <summary><img src="https://img.shields.io/badge/CH01-Introduction-06b6d4?style=flat-square"/> &nbsp;<b>Chapter 1 — Introduction to Data Mining</b></summary>
@@ -123,17 +172,19 @@
 ---
  
 ## Tools & Skills
- 
+
 <div align="center">
- 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
-<img src="https://img.shields.io/badge/SPSS-003A8F?style=for-the-badge&logo=ibm&logoColor=white"/>
+
+<img src="https://skillicons.dev/icons?i=python,sklearn,pandas,numpy,matplotlib,github,vscode&perline=7"/>
+
+<br>
+
 <img src="https://img.shields.io/badge/Data%20Mining-10b981?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Machine%20Learning-7c3aed?style=for-the-badge"/>
- 
+<img src="https://img.shields.io/badge/Deep%20Learning-06b6d4?style=for-the-badge"/>
+
 </div>
- 
+
 ---
  
 ## 👩‍🎓 About Me
@@ -153,7 +204,7 @@
 ---
 
 ### Models Used
--  Neural Network (ANN)
+-  Neural Network (ANN) & LSTM
 -  Huber Regressor
 -  K-Nearest Neighbors (KNN)
 -  Isotonic Regression
